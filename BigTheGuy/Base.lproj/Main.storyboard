@@ -23,7 +23,7 @@
                                     <constraint firstAttribute="width" constant="100" id="DNn-Uv-hv2"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="camera.on.rectangle" catalog="system"/>
+                                <buttonConfiguration key="configuration" style="plain" image="camera.fill" catalog="system"/>
                                 <connections>
                                     <action selector="photoOrCameraPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FlP-iH-Vng"/>
                                 </connections>
@@ -65,7 +65,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="camera.on.rectangle" catalog="system" width="128" height="98"/>
+        <image name="camera.fill" catalog="system" width="128" height="93"/>
         <image name="clown" width="1786" height="1779"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
